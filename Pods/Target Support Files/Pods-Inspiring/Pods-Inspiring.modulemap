@@ -1,0 +1,6 @@
+framework module Pods_Inspiring {
+  umbrella header "Pods-Inspiring-umbrella.h"
+
+  export *
+  module * { export * }
+}

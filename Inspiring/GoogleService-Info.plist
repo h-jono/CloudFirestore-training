@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>435409648400-l8d6b2oa74eohhhp9doni8060poc4cnv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.435409648400-l8d6b2oa74eohhhp9doni8060poc4cnv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBsDbWhIDRWQnYKGGgpRhmphnLmDWqmNFc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>435409648400</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gmail.beats.jomni.Inspiring</string>
+	<key>PROJECT_ID</key>
+	<string>quote-642fa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>quote-642fa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:435409648400:ios:3f3b0b207ccac7cbfa4395</string>
+</dict>
+</plist>
