@@ -1,6 +1,6 @@
 # CloudFirestore-training
 
-## Cloud Firestoreを用いてデータのセット、フェッチをリアルタイムに行う
+Cloud Firestoreを用いてデータのセット、フェッチをリアルタイムに行う
 
 
 
